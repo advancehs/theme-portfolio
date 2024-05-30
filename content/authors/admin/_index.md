@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Hu Shuo (胡硕)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'PhD student at Southwestern University of Finance and Economics'
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: Southwestern University of Finance and Economics
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include efficiency and productivity analysis, global value chains, CGE model.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- efficiency and productivity analysis
+#- global value chains
+#- CGE model
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
+#  - course: PhD in World Economy
+#    institution: Southwestern University of Finance and Economics
+#    year: 2023-2025
+#  - course: Master Degree in World Economy
+#    institution: Southwestern University of Finance and Economics
+#    year: 2019-2022
+#  - course: Undergraduate Degree in International Economics and Trade
 #    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,8 +66,12 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student specializing in World Economics, with a research focus on efficiency and productivity analysis, global value chains, and the CEG model. I have published 13 high-quality papers in renowned academic journals such as "Energy Economics," "Energy," and "Applied Energy."
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my research, I am dedicated to exploring and addressing critical issues in the global energy and economic domains. By applying economic and data analysis techniques, I investigate the efficiency and productivity levels across different industries, as well as the dynamic evolution of global value chains. My research also delves into the CEG model, aiming to deepen the understanding of the impact of energy and environmental policies on economic development and sustainability.
+
+I am passionate about exploring new frontiers and challenging myself, and I actively engage in collaborations with experts from diverse fields to foster research innovation. My goal is to contribute to the global economics community, provide empirical foundations for policymakers, and strive towards achieving sustainable development goals.
+
+I look forward to collaborating with colleagues from around the world to drive advancements and innovations in the field of economics.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
